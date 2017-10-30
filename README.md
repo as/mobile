@@ -1,3 +1,8 @@
+# Hard Fork
+
+This is a hard fork of the golang.org/x/mobile repository. This repository is subject to change, and is created for purely experimental purposes.
+
+
 # Go support for Mobile devices
 
 The Go mobile repository holds packages and build tools for using Go on mobile platforms.
